@@ -1,5 +1,5 @@
 {
-  "name": "header_parser",
+  "name": "url_shortner",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,8 +12,6 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "express-useragent": "^1.0.12",
-    "mongoose": "^5.4.0",
-    "nodemon": "^1.18.8"
+    "mongoose": "^5.4.0"
   }
 }
